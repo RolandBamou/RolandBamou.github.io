@@ -1,0 +1,60 @@
+---
+title: ""
+image: Images/im_profile.png
+toc: true
+about:
+  template: broadside
+  links:
+    - icon: envelope
+      text: email
+      href: mailto:bamou2011@gmail.com
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/RolandBamou
+      target: _blank
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/roland-bamou-bb372277/
+      target: _blank
+comments: false
+---
+
+
+#### Hello
+Roland Bamou is Postdoctoral Visiting Fellow at the National Institute of Health (NIH), National Institute of Allergy and Infectious Diseases (NIAID). His primary research interest is on mosquito ecology (movement and high altitude windborne migration) and mosquito borne diseases (malaria, dengue and other arboviruses) surveillance, insecticide resistance, evaluation of vector control tools, mosquito identification through molecular biology, and MALDI TOF MS. In addition to infectious diseases, he is also interested in new technologies such as next-generation sequencing (NGS), digital droplet PCR and data analysis.
+
+#### Background
+He is a PhD holder in Parasitology and medical entomology with major in vector borne diseases surveillance and control. After his MSc where he understood the impact of blood meal on reproduction of mosquito vector of malaria, *An gambiae*, he worked with researchers from ICIPE Kenya on their project on fruit flies insects in Cameroon. Here, he was in charge of insectarium for insect colonization, identification and handling. After this period, he joined the Laboratory of Malaria research, IRY/OCEAC in Yaounde (August 2016) for his PhD research : understanding factors contributing to residual (and outdoor) malaria transmission in forested area of Cameroon. Here he learned mosquito sampling protocols (from larvae to adults), identification (morphologicaly and molecularly), detection of pathogens including Plasmodium by Elisa/PCR, detection of blood meal source, insecticide resistance surveillance and management, insecticide resistance gene screening/evaluation.
+
+During this time, he was the manager of the team working on the use of Bti, a larvicide for controlling mosquito in Yaounde (Welcome trust funded project of his supervisor at OCEAC). Also he was the mentor of students working with them in the lab coming from different universities including 2 from LSTMH. With people from LSTMH, they produced high impact paper on the presence of Wolbachia in *An moucheti*.
+
+This strong background in these different areas permitted him to be selected as the best student in their department, with the fellowship of young research scientist given by France embassy for 4 months stay in France where additional techniques like Mass spectrometry and sequencing were learned. After this, he obtained his first Postdoctoral position in the lab while waiting for his defence, (delay due to covid 19) followed by a second at NIH/NIAID, Laboratory of Malaria and vector Research-LMVR where he is presently.
+
+In LMVR, he is working in Mosquito Ecology Unit where their main role is the understanding of mosquito movement and impact of high altitude windborne migration of mosquito on the spread/dispersal of pathogens (medico-veterinary important pathogens such as *Plasmodium sp*, *Trypanosoma sp*, filaria/nematodes, arboviruses etc) in Sahel and west Africa. They are collecting mosquito in the air (40-300m agl) and analyzing them using molecular tools (PCR, RT-PCR, qPCR and sequencing/metagenomic).
+
+#### Positions
+
+* **2022 -- present**: **Postdoctoral Visiting Fellow**, *Laboratory of Malaria and Vector Research; National Institute of Allergy and Infectious Diseases, National Institutes of Health*; Rockville, MD
+
+* **2020 -- 2022**: **Postdoctoral Visiting Fellow**, *Vecteurs - Infections Tropicales et Méditerranéennes (VITROME), Team Medical Entomology, Zoonoses and Microbiology; IHU Méditerranée Infection*; Marseille, PACA
+
+* **2016 -- 2020**: **Research Assistant**, *Organisation de Coordination pour la lute Contre les Endemies en Afrique Centrale (OCEAC)*; Yaounde, Cameroon
+
+* **2019**: **Four (4) months Internship training**, *IHU Mediterranée Infection, VITROME*; Marseille, PACA
+
+
+* **2014 -- 2016**: **Laboratory technician**, *under fruit flies project ICIPE/UDs, International Centre for Insect Physiology and Ecology and University of Dschang*
+
+
+
+#### Education
+
+**University of Dschang** \| Dschang, Cameroon
+
+* *PhD* in  Parasitology and Medical entomology \| 2021 \
+***Thesis title****: Understanding factors contributing to residual/persistent malaria transmission with the use Long Lasting Insecticide Nets (LLIN) in Southern-Cameroon*
+
+* *M.Sc.* in Parasitology \| 2013\
+***Thesis title****: Effect of bloodmeal source of the reproduction output of An. gambiae sl, major malaria vector in Africa*
+
+* *B.Sc.* in Zoology \| 2010

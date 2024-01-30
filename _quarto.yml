@@ -1,0 +1,41 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  page-footer:
+    right:
+      - text: "© Copyright 2024 Roland Bamou"
+  title: "Roland Bamou"
+  navbar:
+    pinned: true
+    right:
+      - href: index.qmd
+        text: Home
+      - href: publi.qmd
+      - href: gallery.qmd
+      - text: Contact me
+        menu:
+          - icon: twitter
+            text: Twitter
+            href: https://twitter.com/RolandBamou
+            target: _blank
+          - icon: linkedin
+            text: LinkedIn
+            href: https://www.linkedin.com/in/roland-bamou-bb372277/
+            target: _blank
+          - icon: envelope
+            text: email
+            href: mailto:bamou2011@gmail.com
+    
+
+format:
+  html:
+    theme: solar
+    css: styles.css
+    toc: true
+
+
+
+
+

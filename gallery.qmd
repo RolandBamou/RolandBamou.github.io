@@ -1,0 +1,35 @@
+---
+title: Gallery
+filters:
+  - lightbox
+lightbox:
+  match: auto
+  effect: fade
+  desc-position: right
+  loop: false
+  css-class: "my-css-class"
+---
+
+## My PhD Defence
+
+
+::: {layout="[[1, 1, 1, 1, 1], [1, 1, 1, 1]]"}
+![Me, taking note of the jury's comments](Images/im1.png){group="defence" description="Oak Bluffs is famous for its Gingerbread cottages, busy town center, and party like atmosphere."}
+
+![Me with eminent Professors, members of my jury](Images/im6.png){group="defence"
+description="Oak Bluffs is famous for its Gingerbread cottages, busy town center, and party like atmosphere."}
+
+
+![Me and my mentor, **Dr. Christophe Antonio-Nkondjio**](Images/im2.png){group="defence"
+description="Oak Bluffs is famous for its Gingerbread cottages, busy town center, and party like atmosphere."}
+
+
+![Me with my colleagues of VBID, and my supervisor **Prof. Timoleon Tchuinkam**](Images/im3.png){group="defence" description="Oak Bluffs is famous for its Gingerbread cottages, busy town center, and party like atmosphere."}
+
+
+![Me with my colleagues of OCEAC](Images/im4.png){group="elsewhere"
+description="Oak Bluffs is famous for its Gingerbread cottages, busy town center, and party like atmosphere."}
+
+
+![Finally!](Images/im5.png){group="defence" description="Oak Bluffs is famous for its Gingerbread cottages, busy town center, and party like atmosphere."}
+:::
