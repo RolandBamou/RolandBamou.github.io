@@ -1,6 +1,6 @@
 ---
 title: ""
-image: Images/im_profile.png
+image: Images/im_profile.jpg
 toc: true
 about:
   template: broadside
@@ -17,10 +17,17 @@ about:
       href: https://www.linkedin.com/in/roland-bamou-bb372277/
       target: _blank
 comments: false
+format:
+  html:
+    toc: true
+    grid:
+      margin-width: 50px
+      body-width: 1200px
+      sidebar-width: 50px
 ---
 
 
-#### Hello
+#### **Hello**
 Roland Bamou is Postdoctoral Visiting Fellow at the National Institute of Health (NIH), National Institute of Allergy and Infectious Diseases (NIAID). His primary research interest is on mosquito ecology (movement and high altitude windborne migration) and mosquito borne diseases (malaria, dengue and other arboviruses) surveillance, insecticide resistance, evaluation of vector control tools, mosquito identification through molecular biology, and MALDI TOF MS. In addition to infectious diseases, he is also interested in new technologies such as next-generation sequencing (NGS), digital droplet PCR and data analysis.
 
 #### Background

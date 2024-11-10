@@ -34,6 +34,10 @@ format:
     theme: solar
     css: styles.css
     toc: true
+    grid:
+      margin-width: 50px
+      body-width: 1200px
+      sidebar-width: 50px
 
 
 

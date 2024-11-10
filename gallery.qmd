@@ -14,22 +14,19 @@ lightbox:
 
 
 ::: {layout="[[1, 1, 1, 1, 1], [1, 1, 1, 1]]"}
-![Me, taking note of the jury's comments](Images/im1.png){group="defence" description="Oak Bluffs is famous for its Gingerbread cottages, busy town center, and party like atmosphere."}
+![Me, taking note of the jury's comments](Images/im1.jpg){group="defence" description="Hello!"}
 
-![Me with eminent Professors, members of my jury](Images/im6.png){group="defence"
-description="Oak Bluffs is famous for its Gingerbread cottages, busy town center, and party like atmosphere."}
-
-
-![Me and my mentor, **Dr. Christophe Antonio-Nkondjio**](Images/im2.png){group="defence"
-description="Oak Bluffs is famous for its Gingerbread cottages, busy town center, and party like atmosphere."}
+![Me with eminent Professors, members of my jury](Images/im6.jpg){group="defence" description="Hello!"}
 
 
-![Me with my colleagues of VBID, and my supervisor **Prof. Timoleon Tchuinkam**](Images/im3.png){group="defence" description="Oak Bluffs is famous for its Gingerbread cottages, busy town center, and party like atmosphere."}
+![Me and my mentor, **Dr. Christophe Antonio-Nkondjio**](Images/im2.jpg){group="defence" description="Hello!"}
 
 
-![Me with my colleagues of OCEAC](Images/im4.png){group="elsewhere"
-description="Oak Bluffs is famous for its Gingerbread cottages, busy town center, and party like atmosphere."}
+![Me with my colleagues of VBID, and my supervisor **Prof. Timoleon Tchuinkam**](Images/im3.jpg){group="defence" description="Hello!"}
 
 
-![Finally!](Images/im5.png){group="defence" description="Oak Bluffs is famous for its Gingerbread cottages, busy town center, and party like atmosphere."}
+![Me with my colleagues of OCEAC](Images/im4.jpg){group="defence" description="Hello!"}
+
+
+![Finally!](Images/im5.jpg){group="defence" description="Hello!"}
 :::
